@@ -1,0 +1,457 @@
+*{
+    margin: 10px;
+    padding: 0;
+    background-color: rgb(245, 249, 255);
+    
+
+}
+.logo {
+    background-color: white;
+    cursor: pointer;
+    behavior: calc();
+}
+.text-big{
+    font-size: 40px;
+    color: rgb(20, 73, 143);
+    text-align: center;
+
+}
+.text-small{
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.Registration{
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:  rgb(255, 238, 0);
+    color: rgb(20, 73, 143);
+    padding: 10px;
+}
+
+.learn{
+    font-size: large;
+   background-color:  rgb(255, 238, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(20, 73, 143);
+}
+.website{
+    cursor: pointer;
+    font-size: large;
+    background-color:  rgb(255, 238, 0);
+    color: rgb(20, 73, 143);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.email{
+    font-size: large;
+    background-color:  rgb(255, 238, 0);
+    color: rgb(20, 73, 143);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sticker{
+    text-align: right;
+    margin-left: %;
+    width: 33%;
+    padding: 5px 0px 5px 0px ;
+    
+    font-style:normal;
+    text-align:  center;
+    background: rgb(255, 238, 0);
+    background-size: 20px;
+    border-radius: 15px;
+    
+    
+    
+
+}
+
+.logo img{
+    width: 50%;
+    display: flex;
+    text-align: left;
+    
+    
+}
+.navbar{
+    padding: 20px 20px 20px 20px ;
+    background-position: 20px 20px;
+    display: flex;
+    text-align: right;
+    border-radius: 2px;
+    background: rgb(255, 255, 255);
+    background-size: 50px;
+    border-radius: 15px;
+    
+
+    
+}
+.examday{
+    padding: 10px;
+    border-radius: 8px;
+    background-color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: initial;
+}
+
+.open{
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+}
+.globe{
+    width: 33%;
+    text-align: center;
+}
+.midsection{
+    display: flex;
+}
+.Performance{
+    text-decoration: dotted;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Mock{
+    text-decoration: dotted;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Instant{
+    text-decoration: dotted;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.All{
+    text-decoration: dotted;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+    margin-bottom: 25px;
+}
+.whatwill{
+    font-size: 26px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(20, 73, 143);
+    margin-bottom: 25px;
+}
+
+.awardsaccolades{
+    font-size: 26px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(20, 73, 143);
+}
+
+.MathematicsScience{
+    font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(103, 160, 235);
+}
+.Oneout{
+    text-decoration: dotted;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-bottom: 10px;
+}
+.engheading{
+    margin-top: 50px;
+    font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(103, 160, 235);
+}
+.Lac{
+    text-decoration: dotted;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-bottom: 10px;
+}
+
+.Prestigious{
+    text-decoration: dotted;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.lowermid {
+    display: flex;
+}
+
+
+.Kindle{
+    text-decoration: dotted;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
+.hr{
+    
+}
+
+.enrollment{
+    font-size: 22px;
+    font-weight: bold;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(20, 73, 143);
+}
+
+.forschool{
+    font-size: 23px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.developed{
+    margin-left: 50px;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.content{
+    margin-left: 50px;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.proven{
+    margin-left: 50px;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.lowerdiv{
+    display: flex;
+}
+
+.freeplan{
+    padding: 10px 10px 10px 20px;
+    background-color: rgb(20, 73, 143);
+    margin-left: 55%;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    color: white;
+    
+}
+
+.includew{
+    font-size: large;
+    font-weight: bolder;
+    text-align: right;
+
+}
+.includewlower{
+    margin-top: 0;
+    font-size: large;
+    font-weight: bolder;
+    text-align: right;
+}
+.whitecorner{
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 0;
+    border: 50px;
+    border-color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.freelearn{background-color: white;}
+.use{background-color: white;}
+.add{background-color: white;}
+.get{background-color: white;}
+.anytime{background-color: white;}
+
+.yellowdiv {
+    background-color: yellow;
+}
+
+.subjectline{
+    display: flex;
+}
+
+.loweryellow{
+    display: flex;
+}
+
+.leftdiv{
+    display: 
+    
+}
+
+.rightdiv{
+    margin-left: ;
+}
+
+.premium{
+    padding: 10px 10px 10px 20px;
+    background-color: rgb(20, 73, 143);
+    margin-right: 70%;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    color: white;
+
+}
+.include{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    color: rgb(20, 73, 143);
+
+
+}
+
+.membership{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    
+    
+    color: rgb(20, 73, 143);
+}
+
+.subjectline{
+    background-color: yellow;
+}
+.Math{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(20, 73, 143);
+    font-weight: bolder;
+}
+.Science{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(20, 73, 143);
+    font-weight: bolder;
+}
+
+.English{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(20, 73, 143);
+    font-weight: bolder;
+}
+.loweryellow{ background-color: yellow;
+border-radius: 15px;
+}
+.yellowdiv{
+    border-radius: 20px;
+    padding: 10px 10px 0px 10px;
+}
+.include{background-color: yellow;}
+.membership{background-color: yellow;}
+.subjectline{background-color: yellow;}
+.Math{background-color: yellow;}
+.Science{background-color: yellow;}
+.English{background-color: yellow;}
+.benefits{background-color: yellow;   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(20, 73, 143);
+    font-weight: 10px;
+}
+.benefitsdiv{ background-color: yellow;}
+.enro{background-color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(20, 73, 143);
+    font-weight: 8px;
+}
+.ques{background-color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(20, 73, 143);
+    font-weight: 10px;
+}
+.ana{background-color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(20, 73, 143);
+    font-weight: medium;
+}
+.remedial{background-color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(20, 73, 143);
+    font-weight: medium;
+}
+.prem{background-color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(20, 73, 143);
+    font-weight: medium;
+}
+.teenso{
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 50px;
+    align-items: center;
+    padding: 0;
+
+    
+    
+}
+
+
+.fee{background-color: rgb(255, 255, 255);
+font-size: medium;
+font-weight: bold;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+padding: 70px 0px 70px 0px;
+border-radius: 50%;
+text-align: center;
+}
+
+
+.year{background-color: rgb(255, 255, 255);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: medium;
+
+}
+
+.nav-list{
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.rightnav{
+    
+    width: 50%;
+    text-align: right;
+
+}
+
+#search {
+    padding: 5px;
+    font-size: 17px;
+    border: 2px solid rgb(255, 196, 0);
+    border-radius: 9px
+}
+.nav-list li {
+    list-style:none;
+    padding: 26px 30px;
+}
+
+.nav-list li a {
+    color: white;
+    
+
+}
+
+.nav-list li a:hover {
+    color: white;
+    color: rgb(236, 68, 17);
+
+}
+.nav {
+    background-color: rgb(221, 12, 12);
+}
+    background: rgba(0, 0, 0, 0.7) url ('bg.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+
+    .box-main{
+        color: blue;
+        background-color: blueviolet;
+    }
+
+    .firstSection{
+        height: ;
+    }
+    
